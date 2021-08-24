@@ -4,4 +4,5 @@ terraform {
 }
 terraform1 {
 }
-
+resource {
+}
