@@ -2,3 +2,5 @@ provider{
 }
 terraform {
 }
+resource {
+}
