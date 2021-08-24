@@ -1,2 +1,3 @@
-variable{
+variable "abc"{
+type=string
 }
